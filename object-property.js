@@ -1,7 +1,7 @@
 const students = [
 	{id:21, name:'Omar Sunny'},
 	{id:31, name:'manaaaaa'},
-	{id:41, 'moina'},
+	{id:41, name:'moina'},
 	{id:71, name:'deejol'}
 ];
 
@@ -11,7 +11,7 @@ console.log(names);
 const students = [
 	{id:21, name:'Omar Sunny'},
 	{id:31, name:'manaaaaa'},
-	{id:41, 'moina'},
+	{id:41, name:'moina'},
 	{id:71, name:'deejol'}
 ];
 
@@ -22,7 +22,7 @@ console.log(ids);
 const students = [
 	{id:21, name:'Omar Sunny'},
 	{id:31, name:'manaaaaa'},
-	{id:41, 'moina'},
+	{id:41, name:'moina'},
 	{id:71, name:'deejol'}
 ];
 
@@ -34,7 +34,7 @@ console.log(bigger);
 const students = [
 	{id:21, name:'Omar Sunny'},
 	{id:31, name:'manaaaaa'},
-	{id:41, 'moina'},
+	{id:41, name:'moina'},
 	{id:71, name:'deejol'}
 ];
 
